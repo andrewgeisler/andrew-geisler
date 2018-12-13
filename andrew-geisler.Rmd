@@ -1,0 +1,159 @@
+---
+# title: "Andrew Geisler"
+# author: "andrew"
+# date: "12/12/2018"
+output: html_document
+css: custom.css
+---
+
+<div class="header">
+<span style="font-size: 250%;font-weight:bold;">Andrew Geisler </span><br/>
+<span style="font-size: 100%;font-weight:normal;">Data Analyst |  GoNoodle.com</span>
+</div>
+
+
+<table width="100%"><tr><td width="60%">
+
+Purpose-oriented data professional guided by the constant desire to learn and grow in the field of data analysis and data science. There is a strong desire to foster learning and contribution through a highly collaborative team. 
+  
+</td><td width="1%"><td width="39%">
+- 1601 Hadley Ave, Old Hickory, TN 37138
+- Phone: 615-828-6982
+- Email: andrew.geisler@gmail.com 
+- github.com/andrewgeisler
+- linkedin.com/in/andrewjgeisler
+</td><tr></table>
+
+<div>
+
+### Technical Capabilities
+
+<table>
+<tr><td>
+  - Languages: R, Python
+  - SQL Proficient: Mysql & Redshift (postgres)
+  - BI Tools: Looker, Talend, Pentaho
+</td>
+<td>
+  - RStudio, RMarkdown, Shiny
+  - AWS Redshift, Lambda
+</td></tr>
+</table>
+</div>
+
+
+<div class="column-left">
+
+### Experience
+
+<div style="padding-left:5px;">
+<span class="callout">
+GoNoodle | May 2016 — Present<br/>
+Business Intelligence Developer
+</span>
+
+Responsibilities
+
+  - Developed and maintain ETL process (Python) 
+  - Designed User Scoring model 
+  - Exploratory Data Analysis (R, RStudio, Shiny) 
+  - Implemented and manage AWS Redshift data warehouse 
+  - Standard Report Development (Using Looker and Python) 
+  - Implementing internal BI Tools (Looker)
+
+<span class="callout">
+iostudio, llc | Jan 2012 — May 2016 <br />
+Business Intelligence Supervisor
+</span>
+
+Responsibilities
+
+  - Determining and gathering requirements for setting appropriate KPI's
+  - Development of ETL processes utilizing Pentaho and R
+  - Developing standard reports
+  - Ad-hoc Reporting utilizing R and database queries
+  - Management of Google Analytics across all agency clients
+  - Simple to complex R scripts for statistical analysis and dashboard development
+  - Working with developers and IT professionals on database architecture and design
+
+<span class="callout">
+Bohan Advertising | Feb 2008 — Jan 2012 <br />
+Brand Engagement Specialist
+</span>
+
+Responsibilities
+
+  - Media Planning, Buying (traditional and digital)
+  - Audience Research and Impact Analysis (Market penetration and coupon ROI tracking)
+
+<span class="callout">
+The Buntin Group | Feb 2007 — Feb 2008 <br />
+Assistant Media Planner/Buyer
+</span>
+
+Responsibilities
+
+  - Assisted Planners and Buyers, Audience Research
+
+<span class="callout">
+Navigation Advertising | May 2006 — Feb 2007 <br />
+Marketing Associate
+</span>
+</div></div>
+
+<div class="column-space"></div>
+
+<div class="column-right">
+
+### Education & Certificates
+<div style="padding-left:5px;">
+<span class="callout">
+Middle Tennessee State University<br/> 
+Aug 2002 — Aug 2006<br/>
+Bachelor of Science<br/></span>
+Advertising | Marketing | Philosophy 
+
+
+<span class="callout">
+Courses & Certificates | 2012 - Present <br /></span>
+
+
+<span class="callout">edx.org</span>
+
+  - Foundations of Data Analysis
+  - Introduction to Big Data with Apache Spark
+  - The Analytics Edge (audit)
+
+<span class="callout">Datacamp.com</span>
+
+  - Big Data with R Track
+  - Statistical Inference
+  - Regression Models
+  - Introduction to R
+  - Intermediate R
+  - Introduction to the Tidyverse
+  - Importing Data in R (Part 1 & Part 2)
+  - Writing Functions in R
+
+</div></div>
+
+
+
+<div class="footer">
+
+
+<table width="100%">
+<tr><td colspan="4"><br></td></tr>
+<tr><td colspan="4"><hr></td></tr>
+<tr>
+<td>Andrew Geisler</td>
+<td>1601 Hadley Ave, Old Hickory, TN 37138</td>
+<td>615-828-6982</td>
+<td>andrew.geisler@gmail.com</td>
+</tr>
+<tr><td colspan="4"><hr></td></tr>
+<tr><td colspan="4"><span style="text-align:right;font-size:75%;">*created in rmarkdown</span></td></tr>
+</table>
+</div>
+
+<!-- wkhtmltopdf andrew-geisler-resume.html test.pdf -->
