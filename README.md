@@ -1,6 +1,5 @@
 # Andrew Geisler
 
-----
 
 Project is designed to author a resume utilizing Rmarkdown, Markdown, HTML, and CSS.
 
