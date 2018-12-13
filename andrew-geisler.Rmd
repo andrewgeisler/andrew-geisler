@@ -1,7 +1,4 @@
 ---
-# title: "Andrew Geisler"
-# author: "andrew"
-# date: "12/12/2018"
 output: html_document
 css: custom.css
 ---
