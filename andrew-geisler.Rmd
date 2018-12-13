@@ -25,13 +25,14 @@ Purpose-oriented data professional guided by the constant desire to learn and gr
 
 ### Technical Capabilities
 
-<table>
-<tr><td>
+<table width="80%">
+<tr>
+<td width="50%">
   - Languages: R, Python
   - SQL Proficient: Mysql & Redshift (postgres)
   - BI Tools: Looker, Talend, Pentaho
 </td>
-<td>
+<td width="50%">
   - RStudio, RMarkdown, Shiny
   - AWS Redshift, Lambda
 </td></tr>
