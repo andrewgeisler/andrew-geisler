@@ -11,7 +11,7 @@ css: custom.css
 
 <table width="100%"><tr><td width="60%">
 
-Purpose-oriented data professional guided by the constant desire to learn and grow in the field of data analysis and data science. There is a strong desire to foster learning and contribution through a highly collaborative team. 
+Purpose-oriented data professional motivated by continually learning and growing through contributions to highly collaborative teams. 
   
 </td><td width="1%"><td width="39%">
 - 1601 Hadley Ave, Old Hickory, TN 37138
