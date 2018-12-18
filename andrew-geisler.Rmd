@@ -125,13 +125,19 @@ Courses & Certificates | 2012 - Present <br /></span>
 <span class="callout">Datacamp.com</span>
 
   - Big Data with R Track
-  - Statistical Inference
-  - Regression Models
-  - Introduction to R
-  - Intermediate R
-  - Introduction to the Tidyverse
-  - Importing Data in R (Part 1 & Part 2)
-  - Writing Functions in R
+    - Writing Efficient R Code
+    - Scalable Data Processing in R
+    - Introduction to Spark in R using sparklyr
+    - Parallel Programming in R
+  - Data Scientist with R Track
+    - Statistical Inference
+    - Regression Models
+    - Introduction to R
+    - Intermediate R
+    - Introduction to the Tidyverse
+    - Importing Data in R (Part 1 & Part 2)
+    - Writing Functions in R
+    - Joining Data in R with dplyr
 
 </div></div>
 

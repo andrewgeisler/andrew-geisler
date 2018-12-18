@@ -97,9 +97,6 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
-summary {
-  display: list-item;
-}
 </style>
 
 
@@ -107,74 +104,14 @@ summary {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-
-<style type="text/css">
-.tabset-dropdown > .nav-tabs {
-  display: inline-table;
-  max-height: 500px;
-  min-height: 44px;
-  overflow-y: auto;
-  background: white;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs > li.active {
-  display: block;
-}
-
-.tabset-dropdown > .nav-tabs > li > a,
-.tabset-dropdown > .nav-tabs > li > a:focus,
-.tabset-dropdown > .nav-tabs > li > a:hover {
-  border: none;
-  display: inline-block;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
-  display: block;
-  float: none;
-}
-
-.tabset-dropdown > .nav-tabs > li {
-  display: none;
-}
-</style>
-
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
 </script>
 
 <!-- code folding -->
+
 
 
 
@@ -282,7 +219,15 @@ $(document).ready(function () {
 </ul>
 <p><span class="callout">Datacamp.com</span></p>
 <ul>
-<li>Big Data with R Track</li>
+<li>Big Data with R Track
+<ul>
+<li>Writing Efficient R Code</li>
+<li>Scalable Data Processing in R</li>
+<li>Introduction to Spark in R using sparklyr</li>
+<li>Parallel Programming in R</li>
+</ul></li>
+<li>Data Scientist with R Track
+<ul>
 <li>Statistical Inference</li>
 <li>Regression Models</li>
 <li>Introduction to R</li>
@@ -290,6 +235,8 @@ $(document).ready(function () {
 <li>Introduction to the Tidyverse</li>
 <li>Importing Data in R (Part 1 &amp; Part 2)</li>
 <li>Writing Functions in R</li>
+<li>Joining Data in R with dplyr</li>
+</ul></li>
 </ul>
 </div>
 </div>
