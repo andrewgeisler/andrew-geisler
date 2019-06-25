@@ -28,13 +28,13 @@ Purpose-oriented data professional motivated by continually learning and growing
 <table width="80%">
 <tr>
 <td width="50%">
-  - Languages: R, Python
-  - SQL Proficient: Mysql & Redshift (postgres)
-  - BI Tools: Looker, Talend, Pentaho
+- Languages: R, Python
+- SQL Proficient: Mysql & Redshift (postgres)
+- BI Tools: Looker, Talend, Pentaho
 </td>
 <td width="50%">
-  - RStudio, RMarkdown, Shiny
-  - AWS Redshift, Lambda
+- RStudio, RMarkdown, Shiny
+- AWS Redshift, Lambda
 </td></tr>
 </table>
 </div>
@@ -47,11 +47,12 @@ Purpose-oriented data professional motivated by continually learning and growing
 <div style="padding-left:5px;">
 <span class="callout">
 GoNoodle | May 2016 — Present<br/>
-Business Intelligence Developer
+Data Analyst
 </span>
 
 Responsibilities
 
+  - Oversee and manage Data Team projects (planning/requirements)
   - Developed and maintain ETL process (Python) 
   - Designed User Scoring model 
   - Exploratory Data Analysis (R, RStudio, Shiny) 
@@ -130,14 +131,7 @@ Courses & Certificates | 2012 - Present <br /></span>
     - Introduction to Spark in R using sparklyr
     - Parallel Programming in R
   - Data Scientist with R Track
-    - Statistical Inference
-    - Regression Models
-    - Introduction to R
-    - Intermediate R
-    - Introduction to the Tidyverse
-    - Importing Data in R (Part 1 & Part 2)
-    - Writing Functions in R
-    - Joining Data in R with dplyr
+    - Completed April 2019
 
 </div></div>
 
