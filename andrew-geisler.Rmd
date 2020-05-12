@@ -117,7 +117,7 @@ Marketing Associate
 - Looker
 - Airflow
 - Talend/Pentaho
-- AWS Tools (Redshift, Lambda, Kinesis, Glue Catalog, Athena)
+- AWS Tools (Redshift, s3, Lambda, Kinesis, Glue Catalog, Athena)
 
 
 ### Education
