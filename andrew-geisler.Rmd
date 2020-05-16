@@ -147,7 +147,8 @@ Courses & Certificates | 2012 - Present <br /></span>
 <span class="callout">Coursera.org</span>
 
  - Bayesian Statistics: From Concept to Data Analysis
-   - Currently enrolled/auditing
+ - Regression Models
+ - Statistical Inference
 
 <span class="callout">edx.org</span>
 
